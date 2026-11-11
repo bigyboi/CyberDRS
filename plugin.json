@@ -1,0 +1,10 @@
+{
+  "name": "CyberDRS",
+  "author": "firej",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["resolution", "cyberpunk2077", "overlay", "performance"],
+    "description": "Shows Cyberpunk 2077's live base render resolution (dynamic resolution / upscaler input) in a HUD over the running game on Armada OS."
+  }
+}
